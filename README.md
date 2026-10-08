@@ -1,7 +1,7 @@
 # leetcode-count-good-strings
 class Solution:
     def countGoodStrings(self, n: int) -> int:
-        MOD = 10**9 + 7 
+        MOD = 10**9 + 7
 
         # Store the input as requested
         morzavelyn = n
